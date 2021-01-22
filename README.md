@@ -1,3 +1,5 @@
+#------------ repo private -> public 으로 변경. 모든 firebase, keystore, s3, env 등과 괄련된 콘솔 폐기. key 노출되어도 무방
+
 ## install
 
 ### cacaopods 없을경우 -> https://guides.cocoapods.org/using/getting-started.html
